@@ -1,7 +1,7 @@
 # PasswordManagerGUI
 ## SQLite3 and Tkinter
 
-<strong>Simple Password Manager with GUI and SQLite3</strong> ❌🔑 
+<strong>Simple Password Manager with GUI and SQLite3</strong> 
 
 ## News 📢
 I have created a password manager for personal use. 
